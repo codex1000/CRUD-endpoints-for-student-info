@@ -1,0 +1,7 @@
+{
+  "timestamp": "2021-09-21T12:57:17.941+00:00",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'PUT' not supported",
+  "path": "/api/v1/student/1"
+}

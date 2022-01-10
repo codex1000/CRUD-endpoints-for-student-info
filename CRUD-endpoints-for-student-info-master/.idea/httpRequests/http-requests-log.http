@@ -1,0 +1,152 @@
+PUT http://localhost:8080/api/v1/student/1?name=lovelace&email=love@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/?1name=lovelace&email=love@gmail.com
+Content-Type: application/json
+
+<> 2021-09-21T144317.405.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=lovelace&email=love@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=lovelace
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+<> 2021-09-21T135808.405.json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=Mariam
+Content-Type: application/json
+
+<> 2021-09-21T135718.405.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+<> 2021-09-21T125157.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+<> 2021-09-21T125013.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Adey",
+  "email": "adeybabs@gmail.com",
+  "dob": "1999-04-08"
+}
+
+###
+
